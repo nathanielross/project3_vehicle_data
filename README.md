@@ -1,1 +1,11 @@
-# project3_vehicle_data
+# Final Project
+## *Nick Chappel, Tomas Faria, Peter Higgins, Nate Ross*
+Used Car Price Estimator
+
+Filter Vehicle Info by Brand (Tableau): https://public.tableau.com/profile/nick.chappel#!/vizhome/VehicleData_15866279022260/PricingStory
+
+Filter US & Price by Brand (Tableau): https://public.tableau.com/profile/nick.chappel#!/vizhome/VehicleData_15866279022260/MapStory
+
+Correlation Matrix (Tableau): https://public.tableau.com/profile/tomas5567#!/vizhome/Vehicles-CorrelationMatrix/Dashboard1?publish=yes
+
+Final Presentation (Google Slides): https://docs.google.com/presentation/d/1p5Sh02z475SXVQ8Sk_xPUatzCAUtC2mollpznBGXNJY/edit?usp=sharing
